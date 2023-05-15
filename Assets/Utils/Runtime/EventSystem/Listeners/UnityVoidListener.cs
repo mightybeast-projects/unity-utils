@@ -1,0 +1,1 @@
+﻿public class UnityVoidListener : BaseGameEventListener<Void, VoidEvent, UnityVoidEvent> { }
